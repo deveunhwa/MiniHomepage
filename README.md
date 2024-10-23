@@ -25,3 +25,6 @@
 - 싫어하는 간식 : 껌 
 
 ![animal](https://github.com/user-attachments/assets/69e8beeb-3e23-43d9-9fa6-3ce187d6d22e)
+
+## 푸터 추가
+- footer.md 파일 추가
